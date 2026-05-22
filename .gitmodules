@@ -7,8 +7,8 @@
 	url = git@github.com:xiaoxinlovead/nexus-am.git
 [submodule "NutShell"]
 	path = NutShell
-	url = https://github.com/OSCPU/NutShell
-	branch = difftest
+	url = git@github.com:xiaoxinlovead/NutShell.git
+	branch = jiagedaqi
 [submodule "DRAMsim3"]
 	path = DRAMsim3
 	url = https://github.com/OpenXiangShan/DRAMsim3.git
