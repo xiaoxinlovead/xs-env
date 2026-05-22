@@ -18,3 +18,4 @@
 [submodule "NEMU-2026.03.r3"]
 	path = NEMU-2026.03.r3
 	url = git@github.com:xiaoxinlovead/NEMU.git
+	branch = jiagedaqi
